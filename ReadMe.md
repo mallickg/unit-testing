@@ -6,7 +6,7 @@
 - [X] A quoi sert un test unitaire
 - [X] Comment fonctionne un test unitaire
 - [X] Commencer l'écriture d'un test
-- [ ] Panneau "Memo" test unitaire.
+- [ ] Panneau "Memo"
 - [ ] Description des frameworks de test
 - [ ] Description des environnements (IDEs)
 - [ ] La methode TDD
