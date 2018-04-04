@@ -12,7 +12,7 @@
 - [ ] La methode TDD
 - [ ] Examples de tests unitaire BackEnd
 - [ ] Examples de tests unitaire FrontEnd
-- [ ] Tester un service REST
+- [ ] Tester un Web Service
 
 ## C'est quoi un test unitaire ?
 
